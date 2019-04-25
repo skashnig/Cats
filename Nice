@@ -1,0 +1,9 @@
+cats = ["My cat", "Zoe", "Russian Blue", "Munchkin Cat"]
+
+for cat in cats:
+  if cat == "Zoe":
+    print ("That is not a cat!"
+  else:
+    print ("Cat Option 1 is") + cat
+raw_input("Which cat do you chose? ")
+ 
